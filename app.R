@@ -7,7 +7,7 @@ library(choroplethr)
 library(leaflet)
 library(choroplethrMaps)
 library(sf)
-census_api_key("1a4f022b359f067832be892ea04ace5106a335af", install = TRUE, overwrite = TRUE)
+census_api_key("c8188343c5ba00b77a80402e927dfda87ca22d72", install = TRUE, overwrite = TRUE)
 data(state)
 
 # Define UI for application that draws a histogram
